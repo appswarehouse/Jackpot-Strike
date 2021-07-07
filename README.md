@@ -35,5 +35,5 @@ To use this dapp:
 - you need to have some rinkeby eth faucet, which can be found here :https://faucet.rinkeby.io/
 - you have to mint VITE ERC20 tokens in the following smart contract : https://rinkeby.etherscan.io/address/0xa0228a6c2e57a3fcaae1d12f33bf478e42ef9a49#writeContract
 - run "npm i" and "npm run start", now you can bid on 9 available markets in rinkeby testnet.
-
+- also for unit testing, please use the following repo, https://github.com/appswarehouse/Jackpot-Strike-TESTING
 Have fun!
